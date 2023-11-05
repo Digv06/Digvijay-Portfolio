@@ -22,7 +22,7 @@ text-center group cursor-pointer hover:border-violet-400 duration-200"
       class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:right-full after:w-full
       after:bg-white after:h-full after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden"
     >
-      <a href="https://github.com/Digv06?tab=repositories" target="_blank"
+      <a href="https://github.com/Digv06" target="_blank"
         ><p class="relative z-4 text-lg">Go to &rarr;</p></a
       >
     </div>
