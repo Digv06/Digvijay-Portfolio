@@ -2,9 +2,21 @@
   import Step from "./Step.svelte";
 
   let steps = [
-    { name: "Fant-Fash E-commerce Website", icon: "fa-solid fa-cart-shopping" },
-    { name: "Toll Collection System", icon: "fa-solid fa-diagram-project" },
-    { name: "Everyday Todos", icon: "fa-solid fa-list-check" },
+    {
+      name: "Fant-Fash E-commerce Website",
+      icon: "fa-solid fa-cart-shopping",
+      href: "https://github.com/Digv06/E-commerce",
+    },
+    {
+      name: "Toll Collection System",
+      icon: "fa-solid fa-diagram-project",
+      href: "https://github.com/Digv06/Toll_Transaction_w_smart_contract",
+    },
+    {
+      name: "Everyday Todos",
+      icon: "fa-solid fa-list-check",
+      href: "https://github.com/Digv06/E-commerce",
+    },
   ];
 
   let benefits = [
@@ -75,7 +87,7 @@
       </h3>
     </div>
     <a
-      href="https://github.com/Digv06/E-commerce"
+      href="https://youtu.be/cEmTQk4xuEU"
       target="_blank"
       class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-12 hover:border-violet-700 duration-200"
     >
